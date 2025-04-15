@@ -1,0 +1,4 @@
+/root/trabalho_m1/cmake-build-debug/CMakeFiles/cliente.dir
+/root/trabalho_m1/cmake-build-debug/CMakeFiles/servidor.dir
+/root/trabalho_m1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/root/trabalho_m1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
