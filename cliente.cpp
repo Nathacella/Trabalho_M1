@@ -1,3 +1,4 @@
+// Autores Nathanael Dayan Cella e Guilherme Baptista Da Silva
 #include <iostream>   // Para entrada e saida
 #include <fcntl.h>    // Para open() com flags
 #include <unistd.h>   // Para write() e close()
