@@ -1,3 +1,4 @@
+// Autores Nathanael Dayan Cella e Guilherme Baptista Da Silva
 #include "banco.h"
 #include <iostream>
 #include <fstream>
